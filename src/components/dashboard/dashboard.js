@@ -76,7 +76,7 @@ const Dashboard = () => {
                             onClick={() => handleUpdate(user._id)}
                             >
                                 Update
-                            </Button>{""}
+                            </Button>
                             <Button
                             variant="danger"
                             onClick={() => handleDelete(user._id)}

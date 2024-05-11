@@ -1,7 +1,7 @@
 const NoMatch = () => {
     return (
         <>
-        <h1>NoMatch Component</h1>
+        <h1>No Data Found</h1>
         </>
     )
 }
